@@ -64,9 +64,8 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
             * [OpenScad](http://www.openscad.org/)
 
 * Proceso de impresión
-
-* [Slicers](./Slicers.md)
-* [Materiales y sus parámetros](./Filamentos.md)
+  * [Slicers](./Slicers.md)
+  * [Materiales y sus parámetros](./Filamentos.md)
 
 
 ## Recursos
