@@ -1,13 +1,13 @@
-# Diseño e impresión 3D ([191410GE060](http://www.juntadeandalucia.es/educacion/portals/web/cep-priego-montilla/novedades/-/contenidos/detalle/diseno-e-impresion-3d-1913fwf6mftnt))
+# Diseño e impresión 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
 
-## CEP de Priego/Montilla
+## CEP de Guadix
 
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3dPriego
+## https://github.com/javacasm/3DGuadix2ed
 
 ## Introducción
 
@@ -30,8 +30,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * Obtener piezas en distintos materiales para analizar tolerancias, retracciones y calibrado.
 
 ## Contenidos
-
-## Sesión 1
 
 * Introducción a la impresión 3D
     * [Origen](./Historia.md.md), desarrollo y actualidad
@@ -65,22 +63,10 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
             * [BlockScad](./BlockScad.md)
             * [OpenScad](http://www.openscad.org/)
 
-## Sesión 2 y 3 Diseño con SketchUp
-
-## Sesión 4 Diseño con Autodesk Inventor
-
-## Sesión 5 Proceso de impresión
+* Proceso de impresión
 
 * [Slicers](./Slicers.md)
 * [Materiales y sus parámetros](./Filamentos.md)
-
-## Sesión 6 Pruebas de impresión.
-
-En esta sesión nos dedicaremos a imprimir nuestros diseños y analizar las medidas y calidad de las piezas obtenidas, realizando las oportunas modificaciones sobre los parámetros del laminador para corregir las desviaciones y calibración adecuada de la impresora 3D.
-
-## Sesión 7 Pruebas de impresión II.
-
-Esta última sesión es continuación de la anterior y la dedicaremos al mismo cometido
 
 
 ## Recursos
