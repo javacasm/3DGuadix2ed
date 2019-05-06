@@ -1,4 +1,4 @@
-# Diseño e impresión 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
+# SOFTWARE Y RECURSOS PARA IMPRESORAS 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
 
 ## CEP de Guadix
 
