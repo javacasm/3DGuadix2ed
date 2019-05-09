@@ -26,7 +26,7 @@
 ![Anet a8](https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Distribution/2018/01/09/goods_img_big-v1/20180109121635_60388.jpg)
 
 
-## Anycubics ie Mega
+## Anycubics i3 Mega
 
 ![anycubis](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
 
