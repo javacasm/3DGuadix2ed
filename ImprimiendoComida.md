@@ -1,6 +1,6 @@
 # Extrusores de comida/pasta
 
-![extrusor](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
+![extrusor](https://cdn.thingiverse.com/renders/74/39/85/86/c6/All_paste_extruder_parts_printed_with_belt_display_large_preview_featured.jpg)
 
 [Extrusor con jeringa](https://www.thingiverse.com/thing:20733)
 
