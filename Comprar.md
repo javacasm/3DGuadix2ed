@@ -25,6 +25,11 @@
 
 ![Anet a8](https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Distribution/2018/01/09/goods_img_big-v1/20180109121635_60388.jpg)
 
+
+## Anycubics ie Mega
+
+![anycubis](https://images-na.ssl-images-amazon.com/images/I/611X3q3rWIL._SX425_.jpg)
+
 [Comparativa de impresoras 3D](http://comohacer.eu/comparativa-impresoras-3d/#Comparativa_de_impresoras_3D)
 
 [Otra comparativa](http://buenosybaratos.es/electronica/impresora-3d/las-mejores-impresoras-3d/)
