@@ -19,7 +19,6 @@ Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
 * ABS
 * Proyecto
 * Nylon
-* HerramientasOpenSource
 * Nijaflex
 * ...
 
